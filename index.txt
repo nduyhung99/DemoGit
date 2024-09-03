@@ -1,2 +1,6 @@
 issue1
+<<<<<<< HEAD
 update in master
+=======
+update from issue1
+>>>>>>> issue1
